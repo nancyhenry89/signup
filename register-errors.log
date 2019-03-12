@@ -1,0 +1,6676 @@
+02/11/17 15:15:44:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:15:52:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval10@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:15:59:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval100@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:16:07:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval200@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:16:10:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval2000@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:16:24:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval2000@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:16:36:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval12345@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:21:41:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:21:46:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuval2000@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:21:53:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuvalyuval@mail.com',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+02/11/17 15:22:06:Error in AffiliateUser.uniqueEmail
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'uniqueEmail',
+    'return_object' => '1',
+    'email' => 'yuvalhello@gmail',
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'publicMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+      ),
+    ),
+    'errorMessage' => 'IP 138.201.97.208 is not white-listed. Please enable it in the application, Support => API',
+  ),
+)
+05/11/17 15:07:35:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1066',
+      'first_name' => 'asdasdasd',
+      'last_name' => 'asdasdasd',
+      'email' => 'nazesdspdptest@gmail.com',
+      'password' => 'Dd123456',
+      'password_confirmation' => 'Dd123456',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 15:07:36:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3256',
+      'first_name' => 'asdasdasd',
+      'last_name' => 'asdasdasd',
+      'email' => 'nazesdspdptest@gmail.com',
+      'password' => 'Dd123456',
+      'password_confirmation' => 'Dd123456',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 16:24:46:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3260',
+      'first_name' => 'yuval',
+      'last_name' => 'yuval',
+      'email' => 'yuval@mail.com',
+      'password' => '1234',
+      'password_confirmation' => '1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 16:24:47:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1070',
+      'first_name' => 'yuval',
+      'last_name' => 'yuval',
+      'email' => 'yuval@mail.com',
+      'password' => '1234',
+      'password_confirmation' => '1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 16:36:34:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1074',
+      'first_name' => 'yuval',
+      'last_name' => 'yuval',
+      'email' => 'yuval@mail.com',
+      'password' => '1234',
+      'password_confirmation' => '1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 16:36:35:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3264',
+      'first_name' => 'yuval',
+      'last_name' => 'yuval',
+      'email' => 'yuval@mail.com',
+      'password' => '1234',
+      'password_confirmation' => '1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 17:03:04:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1094',
+      'first_name' => 'yuval',
+      'last_name' => 'yuval',
+      'email' => 'yuval@mail.com',
+      'password' => '1234',
+      'password_confirmation' => '1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 17:03:07:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3284',
+      'first_name' => 'yuval',
+      'last_name' => 'yuval',
+      'email' => 'yuval@mail.com',
+      'password' => '1234',
+      'password_confirmation' => '1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 17:04:36:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3286',
+      'first_name' => 'yuval',
+      'last_name' => 'yuval',
+      'email' => 'yuval@mail.com',
+      'password' => '1234',
+      'password_confirmation' => '1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+05/11/17 17:04:38:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1096',
+      'first_name' => 'yuval',
+      'last_name' => 'yuval',
+      'email' => 'yuval@mail.com',
+      'password' => '1234',
+      'password_confirmation' => '1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+07/11/17 11:59:44:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3348',
+      'first_name' => 'Mike',
+      'last_name' => 'Topias',
+      'email' => 'mike.affiliate@mail.com',
+      'password' => 'qwerasdf1234',
+      'password_confirmation' => 'qwerasdf1234',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+08/11/17 17:05:35:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '206.47.38.58',
+      'account_manager_id' => '',
+      'company' => 'YTZ International',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+08/11/17 17:05:35:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '206.47.38.58',
+      'account_manager_id' => '',
+      'company' => 'YTZ International',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+08/11/17 17:06:18:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '206.47.38.58',
+      'account_manager_id' => '',
+      'company' => 'YTZ International',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+08/11/17 17:06:18:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '206.47.38.58',
+      'account_manager_id' => '',
+      'company' => 'YTZ International',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+10/11/17 19:39:54:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3396',
+      'first_name' => 'bishoy',
+      'last_name' => 'morris',
+      'email' => 'morebiso@yahoo.com',
+      'password' => '1ضص2!ًَ@',
+      'password_confirmation' => '1ضص2!ًَ@',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+14/11/17 13:05:16:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3432',
+      'first_name' => 'Alexei',
+      'last_name' => 'A',
+      'email' => 'ads.alexei@gmail.com',
+      'password' => 'ALal123123bo',
+      'password_confirmation' => 'ALal123123bo',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+12/12/17 05:33:22:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '108.173.37.103',
+      'account_manager_id' => '',
+      'company' => 'Corey John',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+12/12/17 05:33:22:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '108.173.37.103',
+      'account_manager_id' => '',
+      'company' => 'Corey John',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+12/12/17 05:36:22:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '108.173.37.103',
+      'account_manager_id' => '',
+      'company' => 'Corey John',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 04:55:45:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.141.84.239',
+      'account_manager_id' => '',
+      'company' => 'JoseIvory',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 04:55:46:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.141.84.239',
+      'account_manager_id' => '',
+      'company' => 'JoseIvory',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 04:56:48:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.141.84.239',
+      'account_manager_id' => '',
+      'company' => 'JoseIvory',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 04:56:48:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.141.84.239',
+      'account_manager_id' => '',
+      'company' => 'JoseIvory',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 04:57:28:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.141.84.239',
+      'account_manager_id' => '',
+      'company' => 'JoseIvory',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 04:57:29:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.141.84.239',
+      'account_manager_id' => '',
+      'company' => 'JoseIvory',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 04:57:54:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.141.84.239',
+      'account_manager_id' => '',
+      'company' => 'JoseIvory',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 04:57:55:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.141.84.239',
+      'account_manager_id' => '',
+      'company' => 'JoseIvory',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+04/01/18 07:58:47:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3827',
+      'first_name' => 'George',
+      'last_name' => 'Evigan',
+      'email' => 'geoevigan@adsmain.com',
+      'password' => 'Aa!25052505',
+      'password_confirmation' => 'Aa!25052505',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+04/01/18 11:35:33:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3831',
+      'first_name' => 'the',
+      'last_name' => 'form',
+      'email' => 'genine_stoltenkamp@hotmail.com',
+      'password' => '2404Adam',
+      'password_confirmation' => '2404Adam',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+09/01/18 11:45:19:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3879',
+      'first_name' => 'heinrich',
+      'last_name' => 'wunder',
+      'email' => 'wunderheinrich@gmail.com',
+      'password' => '12345qwert',
+      'password_confirmation' => '12345qwert',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+11/01/18 13:19:07:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3891',
+      'first_name' => 'Allan ',
+      'last_name' => 'Weekes',
+      'email' => 'optioncenter@outlook.com',
+      'password' => 'allan1481',
+      'password_confirmation' => 'allan1481',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/01/18 20:59:41:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '76.171.126.6',
+      'account_manager_id' => '',
+      'company' => 'Lottery Critic',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+16/01/18 20:59:42:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '76.171.126.6',
+      'account_manager_id' => '',
+      'company' => 'Lottery Critic',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+16/01/18 21:22:00:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '173.63.209.156',
+      'account_manager_id' => '',
+      'company' => 'Cashout Media LLC / G4Offers',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+16/01/18 21:22:01:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '173.63.209.156',
+      'account_manager_id' => '68',
+      'company' => 'Cashout Media LLC / G4Offers',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+16/01/18 21:22:44:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '173.63.209.156',
+      'account_manager_id' => '',
+      'company' => 'Cashout Media LLC / G4Offers',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+16/01/18 21:22:44:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '173.63.209.156',
+      'account_manager_id' => '68',
+      'company' => 'Cashout Media LLC / G4Offers',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+16/01/18 21:24:12:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '173.63.209.156',
+      'account_manager_id' => '68',
+      'company' => 'Cashout Media LLC',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+16/01/18 21:24:13:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '173.63.209.156',
+      'account_manager_id' => '',
+      'company' => 'Cashout Media LLC',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+17/01/18 19:41:37:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '173.63.209.156',
+      'account_manager_id' => '',
+      'company' => 'Cashout Media LLC / G4Offers',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+17/01/18 19:41:38:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '173.63.209.156',
+      'account_manager_id' => '68',
+      'company' => 'Cashout Media LLC / G4Offers',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+03/02/18 00:13:08:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.203.95.236',
+      'account_manager_id' => '',
+      'company' => 'Andrew Goods',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+03/02/18 00:13:09:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.203.95.236',
+      'account_manager_id' => '',
+      'company' => 'Andrew Goods',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+03/02/18 00:13:31:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.203.95.236',
+      'account_manager_id' => '',
+      'company' => 'Andrew Goods',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+03/02/18 00:13:32:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '72.203.95.236',
+      'account_manager_id' => '',
+      'company' => 'Andrew Goods',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+05/02/18 12:54:26:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '3985',
+      'first_name' => 'Orr',
+      'last_name' => 'Yoffe',
+      'email' => 'yoffe8@gmail.com',
+      'password' => 'guitarist87',
+      'password_confirmation' => 'guitarist87',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+19/02/18 17:09:19:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '169.54.92.138',
+      'account_manager_id' => '',
+      'company' => 'ohad',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+19/02/18 17:09:19:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '169.54.92.138',
+      'account_manager_id' => '68',
+      'company' => 'ohad',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+19/02/18 17:10:06:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '169.54.92.138',
+      'account_manager_id' => '',
+      'company' => 'ohad',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+19/02/18 17:10:07:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '169.54.92.138',
+      'account_manager_id' => '68',
+      'company' => 'ohad',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+19/02/18 17:11:26:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '169.54.92.138',
+      'account_manager_id' => '',
+      'company' => 'ohad',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+19/02/18 17:11:26:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '169.54.92.138',
+      'account_manager_id' => '68',
+      'company' => 'ohad',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+19/02/18 17:23:04:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '169.54.92.138',
+      'account_manager_id' => '',
+      'company' => 'ohad',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+19/02/18 17:23:05:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '169.54.92.138',
+      'account_manager_id' => '68',
+      'company' => 'ohad',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 07:43:31:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '98.145.80.220',
+      'account_manager_id' => '',
+      'company' => '*financial',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 07:43:32:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '98.145.80.220',
+      'account_manager_id' => '',
+      'company' => '*financial',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 07:43:49:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '98.145.80.220',
+      'account_manager_id' => '',
+      'company' => '*financial',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 07:43:49:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '98.145.80.220',
+      'account_manager_id' => '',
+      'company' => '*financial',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 07:44:42:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '98.145.80.220',
+      'account_manager_id' => '',
+      'company' => '*financial',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 07:44:43:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '98.145.80.220',
+      'account_manager_id' => '',
+      'company' => '*financial',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 07:46:33:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '98.145.80.220',
+      'account_manager_id' => '',
+      'company' => '*financial',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 07:46:34:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '98.145.80.220',
+      'account_manager_id' => '',
+      'company' => '*financial',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+27/02/18 20:20:11:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '79.179.119.39',
+      'account_manager_id' => '50',
+      'company' => 'test',
+      'status' => 'pending',
+      'country' => 'IL',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Account_manager_id is not valid.',
+        'attribute_name' => 'account_manager_id',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:15:13:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'Mengzhao',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:15:13:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'Mengzhao',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:15:21:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'Mengzhao',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:15:21:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'Mengzhao',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:15:39:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'Mengzhao',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:15:39:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'Mengzhao',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:16:38:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'Mengzhao',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:16:39:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'Mengzhao',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:17:58:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'simonbonds',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+01/03/18 17:17:58:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.207.135.121',
+      'account_manager_id' => '',
+      'company' => 'simonbonds',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+07/03/18 18:50:07:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '100.2.66.184',
+      'account_manager_id' => '',
+      'company' => 'gamesnex',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+07/03/18 18:54:48:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '45.76.164.173',
+      'account_manager_id' => '',
+      'company' => 'anhealthfood',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+07/03/18 18:54:51:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '45.76.164.173',
+      'account_manager_id' => '',
+      'company' => 'anhealthfood',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+07/03/18 18:56:52:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '100.2.66.184',
+      'account_manager_id' => '',
+      'company' => 'gamesnex',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+07/03/18 18:56:52:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '100.2.66.184',
+      'account_manager_id' => '',
+      'company' => 'gamesnex',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 02:55:30:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.5.217.245',
+      'account_manager_id' => '',
+      'company' => 'mootmedical',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 02:55:30:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.5.217.245',
+      'account_manager_id' => '',
+      'company' => 'mootmedical',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 03:01:57:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.5.217.245',
+      'account_manager_id' => '',
+      'company' => 'mootmedical',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 03:01:57:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.5.217.245',
+      'account_manager_id' => '',
+      'company' => 'mootmedical',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 17:56:02:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 17:56:04:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 17:57:41:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 17:57:42:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 17:59:43:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 17:59:44:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 18:00:17:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 18:00:18:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 18:00:26:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/03/18 18:00:27:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '67.221.104.91',
+      'account_manager_id' => '',
+      'company' => 'Adglob Media',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+15/03/18 18:16:00:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '24.173.187.122',
+      'account_manager_id' => '',
+      'company' => 'Adam Monroe',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+15/03/18 18:16:00:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '24.173.187.122',
+      'account_manager_id' => '',
+      'company' => 'Adam Monroe',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+22/03/18 06:57:15:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.72.90',
+      'account_manager_id' => '',
+      'company' => 'Laurie T Cherryn',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+22/03/18 06:57:15:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.72.90',
+      'account_manager_id' => '',
+      'company' => 'Laurie T Cherryn',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+22/03/18 06:57:36:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.72.90',
+      'account_manager_id' => '',
+      'company' => 'Laurie T Cherryn',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+22/03/18 06:57:37:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.72.90',
+      'account_manager_id' => '',
+      'company' => 'Laurie T Cherryn',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+22/03/18 06:57:54:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.72.90',
+      'account_manager_id' => '',
+      'company' => 'Laurie T Cherryn',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+22/03/18 06:57:55:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.72.90',
+      'account_manager_id' => '',
+      'company' => 'Laurie T Cherryn',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+22/03/18 08:00:57:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '148.163.39.49',
+      'account_manager_id' => '',
+      'company' => 'KennethETallent',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+22/03/18 08:00:58:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '148.163.39.49',
+      'account_manager_id' => '',
+      'company' => 'KennethETallent',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+23/03/18 03:45:51:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.81.114',
+      'account_manager_id' => '',
+      'company' => 'GeorgeLockett',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+23/03/18 03:45:51:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.81.114',
+      'account_manager_id' => '',
+      'company' => 'GeorgeLockett',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+23/03/18 04:00:07:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.189.137.206',
+      'account_manager_id' => '',
+      'company' => 'Mark D Coulter',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+23/03/18 04:00:08:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.189.137.206',
+      'account_manager_id' => '',
+      'company' => 'Mark D Coulter',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+23/03/18 09:28:50:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.72.90',
+      'account_manager_id' => '',
+      'company' => 'CARLOS M  OCAMPO',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+23/03/18 09:28:50:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.178.72.90',
+      'account_manager_id' => '',
+      'company' => 'CARLOS M  OCAMPO',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+24/03/18 00:28:00:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.167.68.138',
+      'account_manager_id' => '',
+      'company' => 'Frederick  R  Sawyer',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+24/03/18 00:28:01:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.167.68.138',
+      'account_manager_id' => '',
+      'company' => 'Frederick  R  Sawyer',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+28/03/18 05:00:02:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '4207',
+      'first_name' => 'sunil',
+      'last_name' => 'nishad',
+      'email' => 'bestcpadeals.com@gmail.com',
+      'password' => '9721807055',
+      'password_confirmation' => '9721807055',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+14/04/18 15:23:52:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NET4Kk4jW7sKjrVhia3oV1yA5IvPvx',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '4307',
+      'first_name' => 'Matias',
+      'last_name' => 'Zanotti',
+      'email' => 'zanotti.ma@activeartmedia.com',
+      'password' => '123456',
+      'password_confirmation' => '123456',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+23/04/18 11:53:34:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '107.175.148.203',
+      'account_manager_id' => '',
+      'company' => 'James Stine',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+28/04/18 12:34:49:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.171.61.20',
+      'account_manager_id' => '',
+      'company' => 'James',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+28/04/18 12:35:25:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '104.171.61.20',
+      'account_manager_id' => '',
+      'company' => 'James',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+02/05/18 12:07:24:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1397',
+      'first_name' => 'Alice',
+      'last_name' => 'Peters',
+      'email' => 'z7advbizdevfin@gmail.com',
+      'password' => 'uthvbjyf',
+      'password_confirmation' => 'uthvbjyf',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+02/05/18 12:07:51:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1399',
+      'first_name' => 'Alice',
+      'last_name' => 'Peters',
+      'email' => 'z7advbizdevfin@gmail.com',
+      'password' => 'uthvbjyf',
+      'password_confirmation' => 'uthvbjyf',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+08/05/18 06:42:08:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1417',
+      'first_name' => 'Bruce',
+      'last_name' => 'Norton',
+      'email' => 'brucesenior@xtra.co.nz',
+      'password' => 'rasputin6B',
+      'password_confirmation' => 'rasputin6B',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+08/05/18 11:50:30:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '2601:205:4000:9364:920:8a6d:4efc:eb64',
+      'account_manager_id' => '',
+      'company' => 'Optimal Resources LLC',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+08/05/18 11:51:39:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '2601:205:4000:9364:920:8a6d:4efc:eb64',
+      'account_manager_id' => '',
+      'company' => 'Optimal Resources LLC',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+08/05/18 11:52:11:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '2601:205:4000:9364:920:8a6d:4efc:eb64',
+      'account_manager_id' => '',
+      'company' => 'Optimal Resources LLC',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+14/05/18 05:59:25:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1431',
+      'first_name' => 'YiFang',
+      'last_name' => 'Shu',
+      'email' => 'fang@clearwatergame.com',
+      'password' => 'e*W4X1cj',
+      'password_confirmation' => 'e*W4X1cj',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+15/05/18 06:20:20:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '76.186.22.141',
+      'account_manager_id' => '',
+      'company' => 'nowcarquote.com',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+15/05/18 06:20:27:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '76.186.22.141',
+      'account_manager_id' => '',
+      'company' => 'nowcarquote.com',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+15/05/18 06:20:50:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '76.186.22.141',
+      'account_manager_id' => '',
+      'company' => 'nowcarquote.com',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+17/05/18 08:29:22:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1445',
+      'first_name' => 'Zoran',
+      'last_name' => 'Ljubenovic',
+      'email' => 'ZORAN.APA@STCABLE.NET',
+      'password' => 'Naroz940',
+      'password_confirmation' => 'Naroz940',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+17/05/18 08:29:48:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1447',
+      'first_name' => 'Zoran',
+      'last_name' => 'Ljubenovic',
+      'email' => 'ZORAN.APA@STCABLE.NET',
+      'password' => 'Naroz940',
+      'password_confirmation' => 'Naroz940',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+17/05/18 08:32:32:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1451',
+      'first_name' => 'Zoran',
+      'last_name' => 'Ljubenovic',
+      'email' => 'zoran.ljubenovic@gmail.com',
+      'password' => 'Better1940',
+      'password_confirmation' => 'Better1940',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+18/05/18 07:52:01:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1461',
+      'first_name' => 'Eric',
+      'last_name' => 'Dieperink',
+      'email' => 'bigthadee@gmail.com',
+      'password' => 'jbhgF5fhjI(6Dw3@rv',
+      'password_confirmation' => 'jbhgF5fhjI(6Dw3@rv',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+18/05/18 07:52:11:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1463',
+      'first_name' => 'Eric',
+      'last_name' => 'Dieperink',
+      'email' => 'bigthadee@gmail.com',
+      'password' => 'jbhgF5fhjI(6Dw3@rv',
+      'password_confirmation' => 'jbhgF5fhjI(6Dw3@rv',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+23/05/18 12:14:41:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1481',
+      'first_name' => 'Clive',
+      'last_name' => 'ngobeni',
+      'email' => 'infotourism@webmail.co.za',
+      'password' => 'Cliveinfo',
+      'password_confirmation' => 'Cliveinfo',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+24/05/18 13:39:15:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1483',
+      'first_name' => 'Alice',
+      'last_name' => 'Peters',
+      'email' => 'z7advbizdevfin@gmail.com',
+      'password' => 'uthvbjyf',
+      'password_confirmation' => 'uthvbjyf',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+03/06/18 10:03:20:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '144.202.114.96',
+      'account_manager_id' => '',
+      'company' => 'Fundraiser Help, LLC',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+03/06/18 10:03:39:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '144.202.114.96',
+      'account_manager_id' => '',
+      'company' => 'Fundraiser Help, LLC',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+10/06/18 12:07:46:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '184.146.246.182',
+      'account_manager_id' => '',
+      'company' => 'fille a l infini',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+10/06/18 12:08:19:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '184.146.246.182',
+      'account_manager_id' => '',
+      'company' => 'fille a l infini',
+      'status' => 'pending',
+      'country' => 'CA',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+11/06/18 23:03:48:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '65.212.115.2',
+      'account_manager_id' => '',
+      'company' => 'TPM Investment',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+11/06/18 23:04:00:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '65.212.115.2',
+      'account_manager_id' => '',
+      'company' => 'TPM Investment',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+11/06/18 23:04:29:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '65.212.115.2',
+      'account_manager_id' => '',
+      'company' => 'TPM Investment',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+11/06/18 23:07:01:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '65.212.115.2',
+      'account_manager_id' => '',
+      'company' => 'junk',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+12/06/18 18:08:36:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '65.212.115.2',
+      'account_manager_id' => '',
+      'company' => 'MadCat Inc',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/06/18 19:42:53:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '65.212.115.2',
+      'account_manager_id' => '',
+      'company' => 'johndoe',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+13/06/18 19:43:23:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '65.212.115.2',
+      'account_manager_id' => '',
+      'company' => 'johndoe',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+14/06/18 10:32:27:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1547',
+      'first_name' => 'hari',
+      'last_name' => 'shanker',
+      'email' => 'publisher@stardeals4u.com',
+      'password' => 'Hi5star2',
+      'password_confirmation' => 'Hi5star2',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+14/06/18 23:38:05:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1553',
+      'first_name' => 'junsheng',
+      'last_name' => 'long',
+      'email' => 'longjunsheng1987@outlook.com',
+      'password' => 'Zhengzhuen123',
+      'password_confirmation' => 'Zhengzhuen123',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:11:53:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1557',
+      'first_name' => 'ghgh',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg',
+      'password' => '12',
+      'password_confirmation' => '12',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Email is not a valid e-mail address.',
+        'attribute_name' => 'email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+      1 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:12:08:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1559',
+      'first_name' => 'ghgh',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg.in',
+      'password' => '12',
+      'password_confirmation' => '12',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:12:44:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1561',
+      'first_name' => 'ghgh',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg.in',
+      'password' => '12',
+      'password_confirmation' => '12',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:13:16:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1563',
+      'first_name' => 'ghghhjjk',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfggh@gg.com',
+      'password' => '12',
+      'password_confirmation' => '12',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:14:33:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1567',
+      'first_name' => 'dsdd',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg.in',
+      'password' => '11',
+      'password_confirmation' => '11',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:14:51:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1569',
+      'first_name' => 'dsdd',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg.in',
+      'password' => '11',
+      'password_confirmation' => '11',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:14:59:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1571',
+      'first_name' => 'dsdd',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg.com',
+      'password' => '11',
+      'password_confirmation' => '11',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:15:36:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1575',
+      'first_name' => 'dsdd',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg.in',
+      'password' => '11',
+      'password_confirmation' => '11',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:16:04:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1579',
+      'first_name' => 'dsdd',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg.com',
+      'password' => '111',
+      'password_confirmation' => '111',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:16:12:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1581',
+      'first_name' => 'dsdd',
+      'last_name' => 'hjhjf',
+      'email' => 'fgfg@gg.com',
+      'password' => '1111',
+      'password_confirmation' => '1111',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 4,
+        'err_msg' => 'A user already exists with this email address.',
+        'attribute_name' => 'Email',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+16/06/18 12:36:48:Error in AffiliateUser.create
+array (
+  'request' => 
+  array (
+    'Target' => 'AffiliateUser',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'affiliate_id' => '1585',
+      'first_name' => 'Fff',
+      'last_name' => 'Gggg',
+      'email' => 'dfghg@fgh.vgh',
+      'password' => 'ert',
+      'password_confirmation' => 'ert',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 3,
+        'err_msg' => 'Password should be between 4 and 16 characters.',
+        'attribute_name' => 'password',
+        'publicMessage' => 'Could not create affiliate user.',
+      ),
+    ),
+    'errorMessage' => 'Could not create affiliate user.',
+  ),
+)
+19/06/18 17:31:13:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '65.212.115.2',
+      'account_manager_id' => '',
+      'company' => 'TPM LLC',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+20/06/18 03:01:23:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '47.89.213.163',
+      'account_manager_id' => '',
+      'company' => 'RichardMBuenrostro',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+20/06/18 03:01:40:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '47.89.213.163',
+      'account_manager_id' => '',
+      'company' => 'RichardMBuenrostro',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+20/06/18 03:01:45:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '47.89.213.163',
+      'account_manager_id' => '',
+      'company' => 'RichardMBuenrostro',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)
+20/06/18 03:01:53:Error in Affiliate.create
+array (
+  'request' => 
+  array (
+    'Target' => 'Affiliate',
+    'Format' => 'json',
+    'Service' => 'HasOffers',
+    'Version' => '2',
+    'NetworkToken' => 'NETXUr6yWXrSHWf8cQy5KofRHAiyUt',
+    'Method' => 'create',
+    'id' => '',
+    'return_object' => '1',
+    'data' => 
+    array (
+      'signup_ip' => '47.89.213.163',
+      'account_manager_id' => '',
+      'company' => 'RichardMBuenrostro',
+      'status' => 'pending',
+      'country' => 'US',
+    ),
+  ),
+  'response' => 
+  array (
+    'status' => -1,
+    'httpStatus' => 200,
+    'data' => '',
+    'errors' => 
+    array (
+      0 => 
+      array (
+        'err_code' => 1,
+        'err_msg' => 'Region / State must be set.',
+        'attribute_name' => 'region',
+        'publicMessage' => 'Affiliate data is not valid.',
+      ),
+    ),
+    'errorMessage' => 'Affiliate data is not valid.',
+  ),
+)

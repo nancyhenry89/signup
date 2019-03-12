@@ -1,0 +1,38 @@
+Networks:
+
+lotto.boutique 
+affiliate.boutique
+roi.boutique (live)
+
+lotto, affiliate, roi
+
+all redirect to: 
+group.boutique
+upload form
+
+add signupQuestionAnswer:
+network, question_id=6, 
+values: lotto, affiliate, roi
+
+
+First API:
+mediaroi
+network token: NET4Kk4jW7sKjrVhia3oV1yA5IvPvx
+https://mediaroi.api.hasoffers.com/Apiv3/json?
+
+Second API:
+roiaff
+network token: NETXUr6yWXrSHWf8cQy5KofRHAiyUt
+https://roiaff.api.hasoffers.com/Apiv3/json?
+
+
+
+network URLs:
+http://ho.roi.boutique/
+http://go.affiliate.boutique
+
+pass: HWf8cQy5K
+
+
+HasOffers Network API:
+https://developers.tune.com/network

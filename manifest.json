@@ -1,0 +1,46 @@
+ {
+  "manifest_version": 2,  
+  "version": "1.2.0",
+  "lang": "en",
+  "default_locale": "en",
+  "name": "Boutique | Sign up",
+  "description": "Welcome to the Boutique Family",
+  "short_name": "Boutique",
+  "icons": [{
+    "src": "img/icons/lowres.webp",
+    "sizes": "64x64",
+    "type": "image/webp"
+  },{
+    "src": "img/icons/lowres-64.png",
+    "sizes": "64x64"
+  }, {
+    "src": "img/icons/icon-128x128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "img/icons/apple-touch-icon-152x152.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "img/icons/ms-touch-icon-144x144-precomposed.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "img/icons/chrome-touch-icon-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+     {
+    "src": "img/icons/chrome-touch-icon-520x520.png",
+    "type": "image/png",
+    "sizes": "520x520"
+  }
+ ],
+
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#f7f5f7",
+  "background_color": "#f7f5f7",
+  "author": "AlpacaScript"
+  
+  }

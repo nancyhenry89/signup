@@ -1,0 +1,113 @@
+<!doctype shtml>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Denied.</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="favicon.ico">
+<style>
+html {
+	
+font-family: sans-serif;
+}
+body {
+	
+margin: 0;
+}
+	h1 {
+		color: white;margin: 0;
+	}
+main {
+	
+background-color: #ff4c15;
+}
+.main-wrap {display: flex;flex-direction: column;justify-content: center;min-height: 100vh;align-items: center;}
+
+svg {
+	margin: 40px 0;
+max-width: 200px;
+height: 160px;
+}
+.button-wrap {
+	
+}
+button-wrap a {
+	
+}
+button {
+	
+border: none;
+	
+background-color: white;
+	
+padding: 15px 60px;
+	
+font-weight: 800;
+	
+text-transform: uppercase;
+	
+cursor: pointer;
+	color: #ff4c15;
+	font-size: 20px;
+}
+</style>
+</head>
+	
+<body>
+
+<main>
+<div class="main-wrap">
+<h1>No access.</h1>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 357 357" style="enable-background:new 0 0 357 357;" xml:space="preserve">
+<g>
+	<g id="clear">
+		<polygon points="357,35.7 321.3,0 178.5,142.8 35.7,0 0,35.7 142.8,178.5 0,321.3 35.7,357 178.5,214.2 321.3,357 357,321.3     214.2,178.5   " fill="#FFFFFF"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+
+
+<div class="button-wrap">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQl" target="_blank">
+<button>Damn</button>
+</a>
+</div>
+
+</div>
+</main>
+
+</body>
+</html>
+
